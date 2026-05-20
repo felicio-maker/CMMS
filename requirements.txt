@@ -1,0 +1,6 @@
+streamlit
+pandas
+fpdf
+qrcode
+Pillow
+xlsxwriter
